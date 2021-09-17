@@ -1,3 +1,3 @@
 # harmonia-savannah
 
-The harmonia-eko web client.
+The harmonia-eko web client
